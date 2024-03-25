@@ -1,7 +1,7 @@
 Stroke Prediction Project
 This project aims to predict the occurrence of strokes in patients using machine learning techniques. The prediction model takes into account various features such as gender, age, hypertension, heart disease, marital status, work type, residence type, average glucose level, BMI, and smoking status.
 
-The model has been deployed using Streamlit and is hosted on Streamlit Share. You can view the deployment here.
+The model has been deployed using Streamlit and is hosted on Streamlit Share. You can view the deployment https://stroke-project.streamlit.app/.
 
 Steps to Achieve a 99% Accuracy
 To achieve an optimal solution of predicting strokes with 99% accuracy, the following steps were taken:
